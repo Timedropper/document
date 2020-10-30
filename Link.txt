@@ -12,6 +12,6 @@ Tracker:https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_a
 https://gitee.com/banbendalao/hosts_optimize_tracker_links/raw/master/tracker.txt
 https://trackerslist.com/all.txt(https://trackerslist.com/#/zh)
 光影:https://bitslablab.com/
-谷歌服务:https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.google.android.gms&ddl=1&pcampaignid=web_ddl_1
+谷歌服务:https://play.google.com/store/apps/details?id=com.google.android.gms
 Steamdb:https://steamdb.info/upcoming/free/
 ER2K材质:http://er2k.mysxl.cn/
